@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="search_product">Search Product</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="filter">Filter</string>
+    <string name="desc">Bitzwolf B-CC1 Camera 1080 Hd Webcame</string>
+    <string name="price">$55</string>
+</resources>
